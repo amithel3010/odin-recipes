@@ -17,3 +17,6 @@ git:
 -admittedly I used git before, for unity projects.  
 -I understand when to commit, and the "atomic commits", it is still something I need some more experience in, but I definetly understand it.  
 -I feel comfortable using the command line to stage, commit, check status and log.
+
+Update:  
+In the CSS part of the course, it is instructed to come back to this project, and style it using css. I will use this README as a reflection for that process aswell.
