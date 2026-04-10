@@ -9,16 +9,20 @@ h1{
     text-align: center;
 }
 
-ul{
+ul, ol{
     border: 1px solid black;
+    margin-bottom: 16px;
 }
-ol{
-    border: 1px solid black;
-}
+
 
 li{
     padding: 2px;
     margin: 4px
+}
+
+ol ul
+{
+    border: none;
 }
 
 img{
